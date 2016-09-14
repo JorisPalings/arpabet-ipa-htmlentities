@@ -1,0 +1,282 @@
+[
+	{
+		"arpabet": "AO",
+		"ipa": "ɔ",
+		"html": "&#596;"
+	},
+	{
+		"arpabet": "AA",
+		"ipa": "ɑ",
+		"html": "&#593;"
+	},
+	{
+		"arpabet": "IY",
+		"ipa": "i",
+		"html": "i"
+	},
+	{
+		"arpabet": "UW",
+		"ipa": "u",
+		"html": "u"
+	},
+	{
+		"arpabet": "EH",
+		"ipa": "ɛ",
+		"html": "&#603;"
+	},
+	{
+		"arpabet": "IH",
+		"ipa": "ɪ",
+		"html": "&#618;"
+	},
+	{
+		"arpabet": "UH",
+		"ipa": "ʊ",
+		"html": "&#650;"
+	},
+	{
+		"arpabet": "AH(AH1)",
+		"ipa": "ʌ",
+		"html": "&#652;"
+	},
+	{
+		"arpabet": "AH(AH0)",
+		"ipa": "ə",
+		"html": "&#601;"
+	},
+	{
+		"arpabet": "AX(AX0)",
+		"ipa": "ə",
+		"html": "&#601;"
+	},
+	{
+		"arpabet": "AE",
+		"ipa": "æ",
+		"html": "&#230;"
+	},
+	{
+		"arpabet": "EY",
+		"ipa": "eɪ",
+		"html": "e&#618;"
+	},
+	{
+		"arpabet": "AY",
+		"ipa": "aɪ",
+		"html": "a&#618;"
+	},
+	{
+		"arpabet": "OW",
+		"ipa": "oʊ",
+		"html": "o&#650;"
+	},
+	{
+		"arpabet": "AW",
+		"ipa": "aʊ",
+		"html": "a&#650;"
+	},
+	{
+		"arpabet": "OY",
+		"ipa": "ɔɪ",
+		"html": "&#596;&#618;"
+	},
+	{
+		"arpabet": "ER",
+		"ipa": "ɝ",
+		"html": "&#605;"
+	},
+	{
+		"arpabet": "AXR",
+		"ipa": "ɚ",
+		"html": "&#602;"
+	},
+	{
+		"arpabet": "EH R",
+		"ipa": "ɛr",
+		"html": "&#603;r"
+	},
+	{
+		"arpabet": "UH R",
+		"ipa": "ʊr",
+		"html": "&#650;r"
+	},
+	{
+		"arpabet": "AO R",
+		"ipa": "ɔr",
+		"html": "&#596;r"
+	},
+	{
+		"arpabet": "AA R",
+		"ipa": "ɑr",
+		"html": "&#593;r"
+	},
+	{
+		"arpabet": "IH R",
+		"ipa": "ɪr",
+		"html": "&#618;r"
+	},
+	{
+		"arpabet": "IY R",
+		"ipa": "ɪr",
+		"html": "&#618;r"
+	},
+	{
+		"arpabet": "AW R",
+		"ipa": "aʊr",
+		"html": "a&#650;r"
+	},
+	{
+		"arpabet": "P",
+		"ipa": "p",
+		"html": "p"
+	},
+	{
+		"arpabet": "B",
+		"ipa": "b",
+		"html": "b"
+	},
+	{
+		"arpabet": "T",
+		"ipa": "t",
+		"html": "t"
+	},
+	{
+		"arpabet": "D",
+		"ipa": "d",
+		"html": "d"
+	},
+	{
+		"arpabet": "K",
+		"ipa": "k",
+		"html": "k"
+	},
+	{
+		"arpabet": "G",
+		"ipa": "ɡ",
+		"html": "&#609;"
+	},
+	{
+		"arpabet": "CH",
+		"ipa": "tʃ",
+		"html": "t&#643;"
+	},
+	{
+		"arpabet": "JH",
+		"ipa": "dʒ",
+		"html": "d&#658;"
+	},
+	{
+		"arpabet": "F",
+		"ipa": "f",
+		"html": "f"
+	},
+	{
+		"arpabet": "V",
+		"ipa": "v",
+		"html": "v"
+	},
+	{
+		"arpabet": "TH",
+		"ipa": "θ",
+		"html": "&#952;"
+	},
+	{
+		"arpabet": "DH",
+		"ipa": "ð",
+		"html": "&#240;"
+	},
+	{
+		"arpabet": "S",
+		"ipa": "s",
+		"html": "s"
+	},
+	{
+		"arpabet": "Z",
+		"ipa": "z",
+		"html": "z"
+	},
+	{
+		"arpabet": "SH",
+		"ipa": "ʃ",
+		"html": "&#643;"
+	},
+	{
+		"arpabet": "ZH",
+		"ipa": "ʒ",
+		"html": "&#658;"
+	},
+	{
+		"arpabet": "HH",
+		"ipa": "h",
+		"html": "h"
+	},
+	{
+		"arpabet": "M",
+		"ipa": "m",
+		"html": "m"
+	},
+	{
+		"arpabet": "EM",
+		"ipa": "m̩",
+		"html": "m&#809;"
+	},
+	{
+		"arpabet": "N",
+		"ipa": "n",
+		"html": "n"
+	},
+	{
+		"arpabet": "EN",
+		"ipa": "n̩",
+		"html": "n&#809;"
+	},
+	{
+		"arpabet": "NG",
+		"ipa": "ŋ",
+		"html": "&#331;"
+	},
+	{
+		"arpabet": "ENG",
+		"ipa": "ŋ̍",
+		"html": "&#331;&#781;"
+	},
+	{
+		"arpabet": "L",
+		"ipa": "ɫ",
+		"html": "&#619;"
+	},
+	{
+		"arpabet": "EL",
+		"ipa": "ɫ̩",
+		"html": "&#619;&#809;"
+	},
+	{
+		"arpabet": "R",
+		"ipa": "ɹ",
+		"html": "&#633;"
+	},
+	{
+		"arpabet": "DX",
+		"ipa": "ɾ",
+		"html": "&#638;"
+	},
+	{
+		"arpabet": "NX",
+		"ipa": "ɾ̃",
+		"html": "&#638;&#771;"
+	},
+	{
+		"arpabet": "Y",
+		"ipa": "j",
+		"html": "j"
+	},
+	{
+		"arpabet": "W",
+		"ipa": "w",
+		"html": "w"
+	},
+	{
+		"arpabet": "Q",
+		"ipa": "ʔ",
+		"html": "&#660;"
+	}
+]
